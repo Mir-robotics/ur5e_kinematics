@@ -240,3 +240,7 @@ python scripts/plot_results.py     # a few seconds
 - No forward/inverse dynamics validated against real hardware — this is a
   kinematics/control library cross-checked against a simulator, not a
   system-identified digital twin.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
