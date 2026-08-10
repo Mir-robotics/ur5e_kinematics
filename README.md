@@ -3,7 +3,13 @@
 A small, dependency-light Python library for UR5e forward/inverse kinematics,
 Jacobians, dynamics, and joint-space control — packaged from a set of lab
 scaffolds into something installable, tested, and cross-validated against
-the official MuJoCo model of the real robot.
+the official [MuJoCo](https://mujoco.org/) model of the real robot.
+
+![status](https://img.shields.io/badge/status-active--development-yellow)
+![python](https://img.shields.io/badge/python-3.8%2B-blue)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-3.x-orange)
+![license](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Install
 
